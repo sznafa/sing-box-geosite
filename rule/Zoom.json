@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "zoom.us",
+        "zoomgov.com"
+      ]
+    }
+  ],
+  "version": 2
+}

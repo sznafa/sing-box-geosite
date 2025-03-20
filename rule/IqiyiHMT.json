@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cache.video.iqiyi.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "iq.com"
+      ]
+    }
+  ],
+  "version": 2
+}

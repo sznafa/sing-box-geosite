@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "didialift.com",
+        "didiglobal.com",
+        "udache.com"
+      ]
+    }
+  ],
+  "version": 2
+}

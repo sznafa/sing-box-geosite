@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "pandora.com"
+      ]
+    }
+  ],
+  "version": 2
+}

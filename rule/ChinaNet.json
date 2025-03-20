@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "21cn.com"
+      ]
+    }
+  ],
+  "version": 2
+}

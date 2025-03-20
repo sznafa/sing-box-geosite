@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "v.smtcdns.com",
+        "vv.video.qq.com"
+      ]
+    }
+  ],
+  "version": 2
+}

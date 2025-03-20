@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "iflyink.com",
+        "iflyrec.com",
+        "iflytek.com"
+      ]
+    }
+  ],
+  "version": 2
+}

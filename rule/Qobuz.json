@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "qobuz.com"
+      ]
+    }
+  ],
+  "version": 2
+}

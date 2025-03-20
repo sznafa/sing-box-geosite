@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "fanbox.cc",
+        "pixiv.net",
+        "pximg.net"
+      ]
+    }
+  ],
+  "version": 2
+}

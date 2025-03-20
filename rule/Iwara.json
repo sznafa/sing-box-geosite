@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "iwara.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

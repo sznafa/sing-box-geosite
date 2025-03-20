@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "uk-live"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bbc.co",
+        "bbc.com"
+      ]
+    }
+  ],
+  "version": 2
+}

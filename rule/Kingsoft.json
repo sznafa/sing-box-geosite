@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "iciba.com",
+        "ksosoft.com",
+        "ksyun.com"
+      ]
+    }
+  ],
+  "version": 2
+}

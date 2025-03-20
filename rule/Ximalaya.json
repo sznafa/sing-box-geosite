@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ximalaya.com",
+        "xmcdn.com"
+      ]
+    }
+  ],
+  "version": 2
+}
