@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "cn.download.nvidia.com"
+      ]
+    },
+    {
       "domain_suffix": [
         "10010.com",
         "115.com",
@@ -77,6 +82,7 @@
         "feng.com",
         "fengkongcloud.com",
         "fir.im",
+        "focuschina.com",
         "frdic.com",
         "fresh-ideas.cc",
         "ganji.com",
@@ -131,11 +137,13 @@
         "luoo.net",
         "lvmama.com",
         "lxdns.com",
+        "made-in-china.com",
         "maoyan.com",
         "meilishuo.com",
         "meituan.com",
         "meituan.net",
         "meizu.com",
+        "micstatic.com",
         "migucloud.com",
         "miguvideo.com",
         "mobike.com",
@@ -198,6 +206,7 @@
         "tietuku.com",
         "tiexue.net",
         "tmiaoo.com",
+        "trademessenger.com",
         "trip.com",
         "ttmeiju.com",
         "tudou.com",
@@ -206,6 +215,7 @@
         "umengcloud.com",
         "upyun.com",
         "uxengine.net",
+        "vemic.com",
         "videocc.net",
         "vivo.com",
         "wandoujia.com",
